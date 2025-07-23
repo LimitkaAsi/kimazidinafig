@@ -250,7 +250,7 @@ const oldRadmirConfig = {
       }
 /* Лого */
       .Old-Fixed-Logo img{
-       width:22.52vh;
+       width:24.52vh;
        height:5.2vh;
        margin-right:2vh
       }
