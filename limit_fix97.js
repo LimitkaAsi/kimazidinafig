@@ -250,8 +250,8 @@ const oldRadmirConfig = {
       }
 /* Лого */
       .Old-Fixed-Logo img{
-       width:22.52vh;
-       height:7.2vh;
+       width:21.52vh;
+       height:8.2vh;
        margin-right:2vh
       }
       .Old-Fixed-Bonus{
@@ -762,3 +762,4 @@ body .authorization{background:0 0}#app .authorization{background-image:url(data
   };
 
 AddHud();
+
